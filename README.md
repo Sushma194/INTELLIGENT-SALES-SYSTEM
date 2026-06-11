@@ -48,6 +48,8 @@ NumPy 🔢
 Plotly 📈
 Scikit-Learn 🤖
 Graphviz 🔷
+
+-------------------------------------------
 📁 Project Structure
 intelligent-sales-system/
 │
@@ -70,6 +72,9 @@ intelligent-sales-system/
 ├── dashboard/
 ├── utils/
 └── README.md
+
+----------------------------------
+
 ▶️ How to Run Project
 1. Clone Repository
 git clone https://github.com/Sushma194/intelligent-sales-system.git
@@ -77,6 +82,8 @@ git clone https://github.com/Sushma194/intelligent-sales-system.git
 pip install -r requirements.txt
 3. Run Application
 streamlit run app.py
+
+-------------------------------------------------------
 📊 Workflow Diagram
 Data Upload
      ↓
@@ -91,6 +98,7 @@ Sales Forecasting
 Inventory Optimization
      ↓
 Reports Generation
+------------------------------------------
 📌 Output Screens
 
 ✔ Interactive Dashboard
