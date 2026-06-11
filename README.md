@@ -102,7 +102,10 @@ Reports Generation
 📌 Output Screens
 
 ✔ Interactive Dashboard
-✔ KPI Cards
+✔ KPI Cards<img width="1901" height="901" alt="Screenshot 2026-06-11 183214" src="https://github.com/user-attachments/assets/65078e66-d0f4-4956-a475-aea4b78e78a2" />
+<img width="1837" height="793" alt="Screenshot 2026-06-11 182900" src="https://github.com/user-attachments/assets/d7a9966a-e7f7-44e6-93a2-5eea438bc35e" />
+<img width="1847" height="872" alt="Screenshot 2026-06-11 183101" src="https://github.com/user-attachments/assets/1212dad3-e27d-4e6c-8647-9716c9ed320a" />
+
 ✔ Pie Charts
 ✔ Line & Bar Graphs
 ✔ Forecasting Model
@@ -123,3 +126,5 @@ Auto PDF Report Generator
 📎 License
 
 This project is for educational purposes.
+Live Web Link :  https://intelligent-sales-system-dxbc.onrender.com
+
